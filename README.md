@@ -1,4 +1,4 @@
-Here's a fun and engaging GitHub README template for you:
+
 
 ---
 
