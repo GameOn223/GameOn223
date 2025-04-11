@@ -30,9 +30,7 @@ When I'm not coding or editing, you’ll find me doing one of the following:
 - ⚽ Football (Kicking goals both on the field and in life)
 - 🧠 Learning & Researching New Stuff (Always growing, always learning)
 
-### 📱 **Hit Me Up!** 📱
-
-I'm always open to connecting with like-minded peeps. You can catch me on **Discord** if you want to chat, collab, or just say hi!
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ---
 
