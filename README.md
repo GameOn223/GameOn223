@@ -30,7 +30,7 @@ When I'm not coding or editing, you’ll find me doing one of the following:
 - ⚽ Football (Kicking goals both on the field and in life)
 - 🧠 Learning & Researching New Stuff (Always growing, always learning)
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=GameOn223&count=1)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=GameOn&count=1)
 
 ---
 
